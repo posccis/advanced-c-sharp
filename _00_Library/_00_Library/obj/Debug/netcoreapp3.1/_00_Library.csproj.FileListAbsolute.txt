@@ -1,0 +1,10 @@
+C:\Users\victo\OneDrive\Área de Trabalho\MAIN\Udemy\C-Sharp_Avancado\_00_Library\_00_Library\bin\Debug\netcoreapp3.1\_00_Library.deps.json
+C:\Users\victo\OneDrive\Área de Trabalho\MAIN\Udemy\C-Sharp_Avancado\_00_Library\_00_Library\bin\Debug\netcoreapp3.1\_00_Library.dll
+C:\Users\victo\OneDrive\Área de Trabalho\MAIN\Udemy\C-Sharp_Avancado\_00_Library\_00_Library\bin\Debug\netcoreapp3.1\_00_Library.pdb
+C:\Users\victo\OneDrive\Área de Trabalho\MAIN\Udemy\C-Sharp_Avancado\_00_Library\_00_Library\obj\Debug\netcoreapp3.1\_00_Library.csproj.AssemblyReference.cache
+C:\Users\victo\OneDrive\Área de Trabalho\MAIN\Udemy\C-Sharp_Avancado\_00_Library\_00_Library\obj\Debug\netcoreapp3.1\_00_Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\OneDrive\Área de Trabalho\MAIN\Udemy\C-Sharp_Avancado\_00_Library\_00_Library\obj\Debug\netcoreapp3.1\_00_Library.AssemblyInfoInputs.cache
+C:\Users\victo\OneDrive\Área de Trabalho\MAIN\Udemy\C-Sharp_Avancado\_00_Library\_00_Library\obj\Debug\netcoreapp3.1\_00_Library.AssemblyInfo.cs
+C:\Users\victo\OneDrive\Área de Trabalho\MAIN\Udemy\C-Sharp_Avancado\_00_Library\_00_Library\obj\Debug\netcoreapp3.1\_00_Library.csproj.CoreCompileInputs.cache
+C:\Users\victo\OneDrive\Área de Trabalho\MAIN\Udemy\C-Sharp_Avancado\_00_Library\_00_Library\obj\Debug\netcoreapp3.1\_00_Library.dll
+C:\Users\victo\OneDrive\Área de Trabalho\MAIN\Udemy\C-Sharp_Avancado\_00_Library\_00_Library\obj\Debug\netcoreapp3.1\_00_Library.pdb

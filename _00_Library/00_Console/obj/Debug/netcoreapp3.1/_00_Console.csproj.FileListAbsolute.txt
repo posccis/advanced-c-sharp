@@ -1,0 +1,17 @@
+C:\Users\victo\OneDrive\Área de Trabalho\MAIN\Udemy\C-Sharp_Avancado\_00_Library\00_Console\bin\Debug\netcoreapp3.1\_00_Console.exe
+C:\Users\victo\OneDrive\Área de Trabalho\MAIN\Udemy\C-Sharp_Avancado\_00_Library\00_Console\bin\Debug\netcoreapp3.1\_00_Console.deps.json
+C:\Users\victo\OneDrive\Área de Trabalho\MAIN\Udemy\C-Sharp_Avancado\_00_Library\00_Console\bin\Debug\netcoreapp3.1\_00_Console.runtimeconfig.json
+C:\Users\victo\OneDrive\Área de Trabalho\MAIN\Udemy\C-Sharp_Avancado\_00_Library\00_Console\bin\Debug\netcoreapp3.1\_00_Console.runtimeconfig.dev.json
+C:\Users\victo\OneDrive\Área de Trabalho\MAIN\Udemy\C-Sharp_Avancado\_00_Library\00_Console\bin\Debug\netcoreapp3.1\_00_Console.dll
+C:\Users\victo\OneDrive\Área de Trabalho\MAIN\Udemy\C-Sharp_Avancado\_00_Library\00_Console\bin\Debug\netcoreapp3.1\_00_Console.pdb
+C:\Users\victo\OneDrive\Área de Trabalho\MAIN\Udemy\C-Sharp_Avancado\_00_Library\00_Console\bin\Debug\netcoreapp3.1\_00_Library.dll
+C:\Users\victo\OneDrive\Área de Trabalho\MAIN\Udemy\C-Sharp_Avancado\_00_Library\00_Console\bin\Debug\netcoreapp3.1\_00_Library.pdb
+C:\Users\victo\OneDrive\Área de Trabalho\MAIN\Udemy\C-Sharp_Avancado\_00_Library\00_Console\obj\Debug\netcoreapp3.1\_00_Console.csproj.AssemblyReference.cache
+C:\Users\victo\OneDrive\Área de Trabalho\MAIN\Udemy\C-Sharp_Avancado\_00_Library\00_Console\obj\Debug\netcoreapp3.1\_00_Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\OneDrive\Área de Trabalho\MAIN\Udemy\C-Sharp_Avancado\_00_Library\00_Console\obj\Debug\netcoreapp3.1\_00_Console.AssemblyInfoInputs.cache
+C:\Users\victo\OneDrive\Área de Trabalho\MAIN\Udemy\C-Sharp_Avancado\_00_Library\00_Console\obj\Debug\netcoreapp3.1\_00_Console.AssemblyInfo.cs
+C:\Users\victo\OneDrive\Área de Trabalho\MAIN\Udemy\C-Sharp_Avancado\_00_Library\00_Console\obj\Debug\netcoreapp3.1\_00_Console.csproj.CoreCompileInputs.cache
+C:\Users\victo\OneDrive\Área de Trabalho\MAIN\Udemy\C-Sharp_Avancado\_00_Library\00_Console\obj\Debug\netcoreapp3.1\_00_Console.csproj.CopyComplete
+C:\Users\victo\OneDrive\Área de Trabalho\MAIN\Udemy\C-Sharp_Avancado\_00_Library\00_Console\obj\Debug\netcoreapp3.1\_00_Console.dll
+C:\Users\victo\OneDrive\Área de Trabalho\MAIN\Udemy\C-Sharp_Avancado\_00_Library\00_Console\obj\Debug\netcoreapp3.1\_00_Console.pdb
+C:\Users\victo\OneDrive\Área de Trabalho\MAIN\Udemy\C-Sharp_Avancado\_00_Library\00_Console\obj\Debug\netcoreapp3.1\_00_Console.genruntimeconfig.cache

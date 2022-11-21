@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tYxCiHksqdVeIp31NQYIgT+b+8CPRy4V8nUFk9Wq1eePKAOvTSCXeOITtDA5kg3cbi2RaCUgNxyMBt8sBft6ew==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\victo\\OneDrive\\Área de Trabalho\\MAIN\\Udemy\\C-Sharp_Avancado\\_00_Library\\00_Console\\_00_Console.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\victo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}
